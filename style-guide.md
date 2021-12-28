@@ -11,15 +11,15 @@ The designs were created to the following widths:
 
 ### Primary
 
-- Soft blue: hsl(215, 51%, 70%) 8BACDA
+- Soft blue: hsl(215, 51%, 70%) #8BACDA
 - Cyan: hsl(178, 100%, 50%) 	00FFF7
 
 ### Neutral
 
-- Very dark blue (main BG): hsl(217, 54%, 11%) 174287
-- Very dark blue (card BG): hsl(216, 50%, 16%) 14253D
-- Very dark blue (line): hsl(215, 32%, 27%) 2F415B
-- White: hsl(0, 0%, 100%) 	FFFFFF
+- Very dark blue (main BG): hsl(217, 54%, 11%) #0D192B
+- Very dark blue (card BG): hsl(216, 50%, 16%) #14253D
+- Very dark blue (line): hsl(215, 32%, 27%) #2F415B
+- White: hsl(0, 0%, 100%) 	#FFFFFF
 
 ## Typography
 
